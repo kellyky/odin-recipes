@@ -1,3 +1,7 @@
-I'm supposed to write about this project at this step, but don't yet know anything about this project. ;-P 
+## Recipes
 
-But this will give me something to commit. So that's something. 
+A pretend website that displays a couple recipes. 
+
+## Bugs
+
+None. But Don't trust the recipes ;-P. 
